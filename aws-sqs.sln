@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32616.157
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "aws-sqs", "aws-sqs\aws-sqs.csproj", "{69C8501D-06B7-46EE-B654-CF3D9E7571DB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{69C8501D-06B7-46EE-B654-CF3D9E7571DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{69C8501D-06B7-46EE-B654-CF3D9E7571DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{69C8501D-06B7-46EE-B654-CF3D9E7571DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{69C8501D-06B7-46EE-B654-CF3D9E7571DB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F7607EA3-1D95-4900-8677-1E037423F7BC}
+	EndGlobalSection
+EndGlobal
